@@ -1,2 +1,2 @@
 # smashtemp.github.io
-Redesignrd template
+Redesigneed template completely coded by me.
