@@ -1,3 +1,4 @@
-# smashtemp.github.io
+[Visit Site](smashtemp.github.io)
 
-#### Redesigned template completely coded by me.
+#### A bootstrap template coded with vanilla CSS
+
