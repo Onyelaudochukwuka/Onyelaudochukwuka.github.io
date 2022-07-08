@@ -1,2 +1,3 @@
 # smashtemp.github.io
-Redesigned template completely coded by me.
+
+#### Redesigned template completely coded by me.
